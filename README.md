@@ -11,8 +11,8 @@ O foco principal é praticar os fundamentos de SQL, desde a modelagem conceitual
 * **Git/GitHub**: Controle de versão dos scripts.
 
 ## 📁 Estrutura do Repositório
-* `/arquivo`: Contém arquivos `.mwb` para manipulação em MySQL Workbench.
-* `/imagem`: Armazena os modelos visuais e diagramas de entidade-relacionamento (DER).
+* `/Arquivo`: Contém arquivos `.mwb` para manipulação em MySQL Workbench.
+* `/Diagramas`: Armazena os modelos visuais e diagramas de entidade-relacionamento (DER).
 
 ## 📊 Modelagem Visual
 O projeto conta com um diagrama visual para facilitar a compreensão da estrutura das tabelas e seus relacionamentos (Chaves Primárias e Estrangeiras).
